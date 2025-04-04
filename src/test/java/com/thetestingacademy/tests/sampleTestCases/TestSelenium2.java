@@ -1,4 +1,4 @@
-package com.thetestingacademy.tests;
+package com.thetestingacademy.tests.sampleTestCases;
 
 import io.qameta.allure.Description;
 import org.openqa.selenium.WebDriver;
